@@ -1,10 +1,3 @@
-/*
-Name: Sameer S. Patil
-Class: BE-IV
-Roll No.: 41462
-Batch: R4
-*/
-
 #include <iostream>
 #include <omp.h>
 #include <bits/stdc++.h>
